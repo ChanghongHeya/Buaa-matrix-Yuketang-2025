@@ -6,5 +6,5 @@
 
 如果想要证明答案的正确性，可以抽样题号，查看题型是否一致，比如 第35题是否为单选等
 
-[![Star History](https://api.star-history.com/svg?repos=<user>/<repo>&type=Date)](https://star-history.com/#<user>/<repo>)
+[![Star History](https://api.star-history.com/svg?repos=ChanghongHeya/buaa-matrix-theory-yuketang-solutions&type=Date)](https://star-history.com/#ChanghongHeya/buaa-matrix-theory-yuketang-solutions)
 
